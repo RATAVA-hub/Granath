@@ -5,7 +5,7 @@ export default function Home() {
     <main className="board">
       <p className="eyebrow">Anslagstavlan</p>
       <h1 className="title">
-        Familjen Granath
+        Familjen Granath TEST
         <svg className="title-thread" viewBox="0 0 300 12" preserveAspectRatio="none">
           <path
             d="M2 8 C 60 2, 100 12, 150 6 S 240 2, 298 8"
